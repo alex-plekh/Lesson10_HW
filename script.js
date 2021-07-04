@@ -27,7 +27,6 @@ for (let i = 0; i < n; i++) {
 console.log(arr);
 console.log(arrDeg);
 
-
 //3) Создайте массив со значениями: ‘AngularJS’, ‘jQuery’
 // a. Добавьте в начало массива значение ‘Backbone.js’
 // b. Добавьте в конец массива значения ‘ReactJS’ и ‘Vue.js’
